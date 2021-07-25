@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 [![itsbeenalongday's github stats](https://github-readme-stats.vercel.app/api?username=alejandroplt&show_icons=true&line_height=21&show_icons=true&theme=dark)](https://github.com/alejandroplt)
 
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroplt&layout=compact&theme=radical" alt="My Github Stats">-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroplt&layout=compact&theme=dark)](https://github.com/alejandroplt)
 </div>
 
