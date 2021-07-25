@@ -6,6 +6,7 @@
 <br />
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif" />
+<!--<img align="right" alt="GIF" src="https://i.pinimg.com/564x/2e/f4/19/2ef419dd92eaa5f61b4ec3de4801929f.jpg" />-->
 
 
 Here are some ideas to get you started:
@@ -32,8 +33,6 @@ Here are some ideas to get you started:
 <a src="https://www.w3schools.com/css/"><img height="35" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"/></a>
 <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/postgresql.png"/></a>
 
-<br />
-<br />
 <br />
 <br />
 
