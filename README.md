@@ -29,7 +29,7 @@
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>-->
 <br />
 
-**Databases:**
+**Database Management System:**
 
 <a src="https://www.w3schools.com/css/"><img height="35" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"/></a>
 <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/postgresql.png"/></a>
