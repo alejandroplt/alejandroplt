@@ -37,13 +37,13 @@
 <br />
 <br />
 
-<div align=center>
+<div align=left>
 
 <img src="https://github.com/alejandroplt/alejandroplt/blob/main/jetpacktocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="200px" />[![itsbeenalongday's github stats](https://github-readme-stats.vercel.app/api?username=alejandroplt&show_icons=true&line_height=21&show_icons=true&theme=dark)](https://github.com/alejandroplt)
 
 </div> 
 
-<div align=center >
+<div align=right >
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroplt&layout=compact&theme=dark)](https://github.com/alejandroplt) <img src="https://github.com/alejandroplt/alejandroplt/blob/main/orderedlistocat.png" alt="dinotocat" width="200px" />
 
