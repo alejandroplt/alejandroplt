@@ -26,7 +26,8 @@
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-<!--<a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+<!--<a src="https://www.w3schools.com/css/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png"/></a>
+<a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>-->
 <br />
 
