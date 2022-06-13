@@ -1,4 +1,4 @@
-### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello, I am [Alejandro Platas](https://github.com/alejandroplt)
+Hello, I am [Alejandro Platas](https://github.com/alejandroplt)
 
 <br />
 
