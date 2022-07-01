@@ -48,6 +48,6 @@ Hello, I am [Alejandro Platas](https://github.com/alejandroplt)
 
 <div align=center >
   
-<img src="https://github.com/alejandroplt/alejandroplt/blob/main/jetpacktocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="200px" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroplt&layout=compact&theme=dark)](https://github.com/alejandroplt) <img src="https://github.com/alejandroplt/alejandroplt/blob/main/jetpacktocat-b.png" alt="dinotocat" width="200px" />
+<img src="https://github.com/alejandroplt/alejandroplt/blob/main/zorro.png" alt="zorro" style="float: left; margin-right: 10px;" width="200px" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroplt&layout=compact&theme=dark)](https://github.com/alejandroplt) <img src="https://github.com/alejandroplt/alejandroplt/blob/main/zorro.png" alt="zorro" width="200px" />
 
 </div>
