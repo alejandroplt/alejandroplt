@@ -6,7 +6,7 @@ Hello, I am [Alejandro Platas](https://github.com/alejandroplt)
 [![Gmail Badge](https://img.shields.io/badge/-platasalejandro02-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:platasalejandro02@gmail.com)](mailto:platasalejandro02@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@alejandro.platas-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/alejandro.platas/?hl=es-laz)](https://www.instagram.com/alejandro.platas/?hl=es-laz)
 
-<img align="right" src="https://github.com/alejandroplt/alejandroplt/blob/main/octocat-16.png" alt="jetpacktocat" width="450px" />
+<img align="right" src="https://github.com/alejandroplt/alejandroplt/blob/main/panda-rojo.png" alt="panda-rojo" width="600px" />
 <!--<img align="right" alt="GIF" src="https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif" />
 <img align="right" alt="GIF" src="https://i.pinimg.com/564x/2e/f4/19/2ef419dd92eaa5f61b4ec3de4801929f.jpg" />-->
 
@@ -27,9 +27,9 @@ Hello, I am [Alejandro Platas](https://github.com/alejandroplt)
 <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 <a src="https://github.com/google/material-design-lite"><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png"/></a>
-<!--<a src="https://www.w3schools.com/css/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png"/></a>
-<a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>-->
+<a src="https://www.w3schools.com/css/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png"/></a>
+<!--<a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>-->
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>
 <br />
 
 **Database Management System:**
