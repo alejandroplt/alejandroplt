@@ -6,7 +6,7 @@ Hello, I am [Alejandro Platas](https://github.com/alejandroplt)
 [![Gmail Badge](https://img.shields.io/badge/-platasalejandro02-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:platasalejandro02@gmail.com)](mailto:platasalejandro02@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@alejandro.platas-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/alejandro.platas/?hl=es-laz)](https://www.instagram.com/alejandro.platas/?hl=es-laz)
 
-<img align="right" src="https://github.com/alejandroplt/alejandroplt/blob/main/panda-rojo.png" alt="panda-rojo" width="500px" />
+<img align="right" src="https://github.com/alejandroplt/alejandroplt/blob/main/panda-rojo.png" alt="panda-rojo" width="450px" />
 <!--<img align="right" alt="GIF" src="https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif" />
 <img align="right" alt="GIF" src="https://i.pinimg.com/564x/2e/f4/19/2ef419dd92eaa5f61b4ec3de4801929f.jpg" />-->
 
@@ -42,12 +42,12 @@ Hello, I am [Alejandro Platas](https://github.com/alejandroplt)
 
 <div align=center>
 
-[![itsbeenalongday's github stats](https://github-readme-stats.vercel.app/api?username=alejandroplt&show_icons=true&line_height=21&show_icons=true&theme=gruvbox)](https://github.com/alejandroplt)
+[![itsbeenalongday's github stats](https://github-readme-stats.vercel.app/api?username=alejandroplt&show_icons=true&line_height=21&show_icons=true&theme=great-gatsby)](https://github.com/alejandroplt)
 
 </div> 
 
 <div align=center >
   
-<img src="https://github.com/alejandroplt/alejandroplt/blob/main/zorro.png" alt="zorro" style="float: left; margin-right: 10px;" width="200px" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroplt&layout=compact&theme=gruvbox)](https://github.com/alejandroplt) <img src="https://github.com/alejandroplt/alejandroplt/blob/main/zorro.png" alt="zorro" width="200px" />
+<img src="https://github.com/alejandroplt/alejandroplt/blob/main/zorro.png" alt="zorro" style="float: left; margin-right: 10px;" width="200px" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroplt&layout=compact&theme=great-gatsby)](https://github.com/alejandroplt) <img src="https://github.com/alejandroplt/alejandroplt/blob/main/zorro.png" alt="zorro" width="200px" />
 
 </div>
