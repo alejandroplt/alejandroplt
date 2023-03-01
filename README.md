@@ -16,8 +16,8 @@ Hello, I am [Alejandro Platas](https://github.com/alejandroplt)
 - 🌱 I’m currently strengthening my programming knowledge.
 - 💬 Ask me about technology.
 - 📫 How to reach me: platasalejandro02@gmail.com
-- 👀 Check my portfolio: https://portafolio-alejandro-plt.netlify.app/
-
+<!-- 👀 Check my portfolio: https://portafolio-alejandro-plt.netlify.app/
+-->
 <br />
 
 **Languages and Tools:**  
