@@ -6,8 +6,8 @@ Hello, I am [Alejandro Platas](https://github.com/alejandroplt)
 [![Gmail Badge](https://img.shields.io/badge/-platasalejandro02-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:platasalejandro02@gmail.com)](mailto:platasalejandro02@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@alejandro.platas-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/alejandro.platas/?hl=es-laz)](https://www.instagram.com/alejandro.platas/?hl=es-laz)
 
-<img align="right" src="https://github.com/alejandroplt/alejandroplt/blob/main/panda-rojo.png" alt="panda-rojo" width="450px" />
-<!--<img align="right" alt="GIF" src="https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif" />
+<!--<img align="right" src="https://github.com/alejandroplt/alejandroplt/blob/main/panda-rojo.png" alt="panda-rojo" width="450px" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif" />
 <img align="right" alt="GIF" src="https://i.pinimg.com/564x/2e/f4/19/2ef419dd92eaa5f61b4ec3de4801929f.jpg" />-->
 
 <br />
