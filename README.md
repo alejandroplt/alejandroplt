@@ -1,5 +1,8 @@
 Hello, I am [Alejandro Platas](https://github.com/alejandroplt)
 
+<!--<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CFE300&background=FFFFFF00&width=435&lines=Hello%2C+welcome+to+my+GitHub;I'm+Alejandro+Platas" alt="Typing SVG" /></a>
+</p>-->
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-AlejandroPlatas-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-platas-96a157218/)](https://www.linkedin.com/in/alejandro-platas-96a157218/)
