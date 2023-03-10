@@ -44,13 +44,17 @@ Hello, I am [Alejandro Platas](https://github.com/alejandroplt)
 <br />
 
 <div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandroplt&show_icons=true&hide_border=true&title_color=47b5ff&icon_color=256D85&text_color=c9d1d9&bg_color=0d1117" alt="Alejandro Platas :: Profile Stats" />
+  <img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroplt&theme=black-ice&hide_border=true&stroke=06283d&background=0D1117&ring=47b5ff&fire=256d85&currStreakLabel=47b5ff"/>
+      
 
-[![itsbeenalongday's github stats](https://github-readme-stats.vercel.app/api?username=alejandroplt&show_icons=true&line_height=21&show_icons=true&theme=great-gatsby)](https://github.com/alejandroplt)
+
+<!--[![itsbeenalongday's github stats](https://github-readme-stats.vercel.app/api?username=alejandroplt&show_icons=true&line_height=21&show_icons=true&theme=great-gatsby)](https://github.com/alejandroplt)-->
 
 </div> 
 
 <div align=center >
   
-<img src="https://github.com/alejandroplt/alejandroplt/blob/main/zorro.png" alt="zorro" style="float: left; margin-right: 10px;" width="200px" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroplt&layout=compact&theme=great-gatsby)](https://github.com/alejandroplt) <img src="https://github.com/alejandroplt/alejandroplt/blob/main/zorro.png" alt="zorro" width="200px" />
+<img src="https://github.com/alejandroplt/alejandroplt/blob/main/zorro.png" alt="zorro" style="float: left; margin-right: 10px;" width="200px" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroplt&layout=compact&&show_icons=true&hide_border=true&title_color=47b5ff&icon_color=256D85&text_color=c9d1d9&bg_color=0d1117)](https://github.com/alejandroplt) <img src="https://github.com/alejandroplt/alejandroplt/blob/main/zorro.png" alt="zorro" width="200px" />
 
 </div>
