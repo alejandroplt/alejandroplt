@@ -4,7 +4,7 @@
 <p align="center">  
     <img width="200" src="https://github.com/alejandroplt/alejandroplt/blob/main/1974.png"  alt="Logo">
     <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=600&size=22&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello%2C+welcome+to+my+GitHub;I'm+Alejandro+Platas" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&pause=1000&color=F7F7F7&background=0D1117&center=true&width=435&lines=Hello%2C+welcome+to+my+GitHub;I'm+Alejandro+Platas" alt="Typing SVG" /></a>
 <p align="center">Contact me through</p>
 </p>
 
@@ -56,7 +56,7 @@
 **📚 Frameworks, Platforms and Libraries:** 
 <div align="center">
     
-   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MDL](https://custom-icon-badges.demolab.com/badge/-MDL-000000?style=for-the-badge&logo=materialdesignlite&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
     
 </div>
 </td>
