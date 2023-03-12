@@ -4,7 +4,7 @@
 <p align="center">  
     <img width="200" src="https://github.com/alejandroplt/alejandroplt/blob/main/1974.png"  alt="Logo">
     <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&pause=1000&color=47B4FE&center=true&width=435&lines=Hello%2C+welcome+to+my+GitHub;I'm+Alejandro+Platas" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Staatliches&size=25&pause=1000&color=47B4FE&center=true&width=435&lines=Hello%2C+welcome+to+my+GitHub;I'm+Alejandro+Platas" alt="Typing SVG" /></a>
 <p align="center">Contact me through</p>
 </p>
 
