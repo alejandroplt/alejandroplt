@@ -1,18 +1,18 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alejandroplt.visitor-badge)
-
 <!--LOGO Y REDES SOCIALES-->
 <p align="center">  
     <img width="200" src="https://github.com/alejandroplt/alejandroplt/blob/main/1974.png"  alt="Logo">
     <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&pause=1000&color=F7F7F7&background=000000&center=true&width=435&lines=Hello%2C+welcome+to+my+GitHub;I'm+Alejandro+Platas" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=600&size=22&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello%2C+welcome+to+my+GitHub;I'm+Alejandro+Platas" alt="Typing SVG" /></a>
+<p align="center">Contact me through</p>
 </p>
 
-<div align="center">
+<h2 align="center">
   
   [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/platas-alejandro/)](https://www.linkedin.com/in/platas-alejandro/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:platasalejandro02@gmail.com)](mailto:platasalejandro02@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/alejandro.platas/)](https://www.instagram.com/alejandro.platas/)
     
-</div>
+</h2>
 <br>
 
 <!--IMAGEN DERECHA-->
@@ -102,5 +102,4 @@
 <div align=center >
   
 <img src="https://github.com/alejandroplt/alejandroplt/blob/main/zorro.png" alt="zorro" style="float: left; margin-right: 10px;" width="200px" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroplt&layout=compact&&show_icons=true&hide_border=true&title_color=47b5ff&icon_color=256D85&text_color=c9d1d9&bg_color=0d1117)](https://github.com/alejandroplt) <img src="https://github.com/alejandroplt/alejandroplt/blob/main/zorro.png" alt="zorro" width="200px" />
-
 </div>
