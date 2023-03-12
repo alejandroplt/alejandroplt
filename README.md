@@ -1,3 +1,6 @@
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=alejandroplt.visitor-badge)
+
 <!--LOGO Y REDES SOCIALES-->
 <p align="center">  
     <img width="200" src="https://github.com/alejandroplt/alejandroplt/blob/main/1974.png"  alt="Logo">
@@ -7,9 +10,9 @@
 
 <div align="center">
   
-  [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/platas-alejandro/)](https://www.linkedin.com/in/platas-alejandro/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:platasalejandro02@gmail.com)](mailto:platasalejandro02@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/alejandroplt)](https://github.com/alejandroplt) ![visitors](https://visitor-badge.glitch.me/badge?page_id=alejandroplt.visitor-badge)
+  [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/platas-alejandro/)](https://www.linkedin.com/in/platas-alejandro/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:platasalejandro02@gmail.com)](mailto:platasalejandro02@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/alejandro.platas/)](https://www.instagram.com/alejandro.platas/)
+    
 </div>
-
 <br>
 
 <!--IMAGEN DERECHA-->
@@ -74,7 +77,7 @@
 **☁️ 🕓 Hosting and Version Control:** 
 <div align="center">
     
-   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     
 </div>
 </td>
