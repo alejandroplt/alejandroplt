@@ -21,37 +21,71 @@
 <div align="center">
     <img align="right"  alt="GIF" src="https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" width="350px" />
 </div>
+
+<div align="left">
     
    - 👨🏽‍💻 I’m currently working on improving my techskill.
    - 🌱 I’m currently strengthening my programming knowledge.
    - 💬 Ask me about technology.
    - 📫 How to reach me: platasalejandro02@gmail.com
    - 👀 Check my portfolio: https://portafolio-alejandro-plt.netlify.app/       
-
+</div>
+    
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 
+<table><tr><td valign="top" width="25%">
+    
+**Languages:** 
+<div align="center">
+    
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+    
+</div>
 
+</td>
+    
+<td valign="top" width="25%">
+    
+**Frameworks, Platforms and Libraries:** 
+<div align="center">
+    
+   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+    
+</div>
 
+</td>
+    
+<td valign="top" width="25%">
+    
+**Databases:** 
+<div align="center">
+    
+   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+    
+</div>
 
+</td>
+    
+<td valign="top" width="25%">
+    
+**Hosting and version control:** 
+<div align="center">
+    
+   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    
+</div>
 
+</td>
+    
+ </tr>
 
-**Languages and Tools:**  
-
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-<a src="https://github.com/google/material-design-lite"><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png"/></a>
-<a src="https://www.w3schools.com/css/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png"/></a>
-<!--<a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>-->
-<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>
-<br />
-
-**Database Management System:**
-
-<a src="https://www.w3schools.com/css/"><img height="60" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"/></a>
-<a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/postgresql.png"/></a>
+</table>  
 
 <br />
 <br />
