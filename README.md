@@ -1,27 +1,41 @@
-Hello, I am [Alejandro Platas](https://github.com/alejandroplt)
 
-<!--<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CFE300&background=FFFFFF00&width=435&lines=Hello%2C+welcome+to+my+GitHub;I'm+Alejandro+Platas" alt="Typing SVG" /></a>
-</p>-->
-<br />
+<p align="center">  
+    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+    <br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&pause=1000&color=F7F7F7&background=000000&center=true&width=435&lines=Hello%2C+welcome+to+my+GitHub;I'm+Alejandro+Platas" alt="Typing SVG" /></a>
+    <!--Hello, I am [Alejandro Platas](https://github.com/alejandroplt)-->
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AlejandroPlatas-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-platas-96a157218/)](https://www.linkedin.com/in/alejandro-platas-96a157218/)
-[![Gmail Badge](https://img.shields.io/badge/-platasalejandro02-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:platasalejandro02@gmail.com)](mailto:platasalejandro02@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@alejandro.platas-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/alejandro.platas/?hl=es-laz)](https://www.instagram.com/alejandro.platas/?hl=es-laz)
+<div align="center">
+  
+  [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/platas-alejandro/)](https://www.linkedin.com/in/platas-alejandro/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:platasalejandro02@gmail.com)](mailto:platasalejandro02@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/alejandroplt)](https://github.com/alejandroplt) ![visitors](https://visitor-badge.glitch.me/badge?page_id=alejandroplt.visitor-badge)
+</div>
 
-<!--<img align="right" src="https://github.com/alejandroplt/alejandroplt/blob/main/panda-rojo.png" alt="panda-rojo" width="450px" />
+<!--<img align="right" src="https://github.com/alejandroplt/alejandroplt/blob/main/panda-rojo.png" alt="panda-rojo" />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif" />
 <img align="right" alt="GIF" src="https://i.pinimg.com/564x/2e/f4/19/2ef419dd92eaa5f61b4ec3de4801929f.jpg" />-->
 
-<br />
+<br>
+<br>
 
-- 👨🏽‍💻 I’m currently working on improving my techskill.
-- 🌱 I’m currently strengthening my programming knowledge.
-- 💬 Ask me about technology.
-- 📫 How to reach me: platasalejandro02@gmail.com
-<!-- 👀 Check my portfolio: https://portafolio-alejandro-plt.netlify.app/
--->
-<br />
+<img align="right"  alt="GIF" src="https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" width="300px" />
+
+<p align="left">
+  
+   - 👨🏽‍💻 I’m currently working on improving my techskill.
+   - 🌱 I’m currently strengthening my programming knowledge.
+   - 💬 Ask me about technology.
+   - 📫 How to reach me: platasalejandro02@gmail.com
+   - 👀 Check my portfolio: https://portafolio-alejandro-plt.netlify.app/                   
+</p>
+
+<br>
+
+
+
+
+
+
 
 **Languages and Tools:**  
 
