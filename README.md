@@ -20,14 +20,11 @@
 
 <img align="right"  alt="GIF" src="https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" width="300px" />
 
-<p align="left">
-  
    - 👨🏽‍💻 I’m currently working on improving my techskill.
    - 🌱 I’m currently strengthening my programming knowledge.
    - 💬 Ask me about technology.
    - 📫 How to reach me: platasalejandro02@gmail.com
-   - 👀 Check my portfolio: https://portafolio-alejandro-plt.netlify.app/                   
-</p>
+   - 👀 Check my portfolio: https://portafolio-alejandro-plt.netlify.app/       
 
 <br>
 
