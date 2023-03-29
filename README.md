@@ -96,7 +96,7 @@
       
 
 
-<!--[![itsbeenalongday's github stats](https://github-readme-stats.vercel.app/api?username=alejandroplt&show_icons=true&line_height=21&show_icons=true&theme=great-gatsby)](https://github.com/alejandroplt)-->
+<!--[![Alejandro Platas github stats](https://github-readme-stats.vercel.app/api?username=alejandroplt&show_icons=true&line_height=21&show_icons=true&theme=great-gatsby)](https://github.com/alejandroplt)-->
 
 </div> 
 
