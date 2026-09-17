@@ -1,5 +1,5 @@
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=alejandroplt.visitor-badge)
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=alejandroplt.visitor-badge)-->
 
 <!--LOGO Y REDES SOCIALES-->
 <!--<p align="center">  
@@ -24,7 +24,7 @@
 <br>
 <br>
 
-<!--SOBRE MI-->
+<!--SOBRE MI
 <div align="left">
     
    - 👨🏽‍💻 I’m currently working on improving my techskill.
@@ -96,7 +96,7 @@
       
 
 
-<!--[![Alejandro Platas github stats](https://github-readme-stats.vercel.app/api?username=alejandroplt&show_icons=true&line_height=21&show_icons=true&theme=great-gatsby)](https://github.com/alejandroplt)-->
+<!--[![Alejandro Platas github stats](https://github-readme-stats.vercel.app/api?username=alejandroplt&show_icons=true&line_height=21&show_icons=true&theme=great-gatsby)](https://github.com/alejandroplt)
 
 </div> 
 
